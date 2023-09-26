@@ -26,5 +26,5 @@
 1. что-то второе
 1. что-то третье
 1. ссылка на [задание](https://drive.google.com/file/d/1m5ttisExcnACCSM8_PPuQuC7dmuGxIB1/view) 
-#другой заголовок
+## другой заголовок
 (Снимок.png)
